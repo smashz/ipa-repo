@@ -1,0 +1,19 @@
+{
+  "name": "Rental App",
+  "identifier": "com.example.test.source",
+  "apps": [
+    {
+      "name": "Rental",
+      "bundleIdentifier": "com.example.test",
+      "developerName": "Rental App",
+      "subtitle": "Dealer rental app",
+      "version": "1.0.0",
+      "versionDate": "2026-10-30T16:57:19Z",
+      "downloadURL": "https://github.com/smashz/smashz.github.io/releases/download/v1.0.0-1-20261030165718/rental.ipa",
+      "localizedDescription": "Rental app",
+      "size": 1833690,
+      "versionDescription": "Build 1"
+    }
+  ],
+  "news": []
+}\n
